@@ -1,4 +1,4 @@
-# GitHub for Developers
+# Erica' GitHub for Developers
 
 - Class Date: April 12 - 13, 2021
 - Facilitator: @ericalloyd
